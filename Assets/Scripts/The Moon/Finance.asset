@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b1bc004d5f6a7249b15ea09345e7158, type: 3}
   m_Name: Finance
   m_EditorClassIdentifier: 
-  Past: {fileID: 0}
+  Past: {fileID: 11400000, guid: 2b8b211174fb65b44ae70a7019760a7a, type: 2}
   Present: {fileID: 0}
   Future: {fileID: 0}
