@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      prop_books_01_mt_Base_Color_0: 3479421508445075199
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
