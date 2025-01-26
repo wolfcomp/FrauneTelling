@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
   m_Name: MoonHealthFuture
   m_EditorClassIdentifier: 
-  Good: 
-  Bad: 
+  Good: "The Moon, reversed. Your future is shrouded in secrets. You will have an
+    encounter that will defy your reason. It will leave you broken if you don\u2019t
+    bring it to light."
+  Bad: The Moon, right side up. You often figure out your cause of harm without help,
+    but your inability to share it with others will hurt you greatly when they are
+    the only ones who can save you.

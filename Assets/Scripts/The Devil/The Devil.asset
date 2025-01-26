@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ba9d6ed0f387d2046aa6c9ef782e73b9, type: 3}
-  m_Name: The Moon Tarot Card
+  m_Name: The Devil
   m_EditorClassIdentifier: 
-  Name: The Moon
+  Name: The Devil
   Sprite: {fileID: 0}
   Sentences:
     _serializedList:
     - Key: Prosperity
-      Value: {fileID: 11400000, guid: 4b7c8c1fe5bf12d40bd9607384ce6577, type: 2}
+      Value: {fileID: 11400000, guid: e23f39ad56bf09c46a4c27a261601517, type: 2}
     - Key: Health
-      Value: {fileID: 11400000, guid: e0a4a16a46654424d89f2e27c0f54a68, type: 2}
+      Value: {fileID: 11400000, guid: 22d60d85df5acb64e8f997452e5a60e7, type: 2}
     - Key: Relations
-      Value: {fileID: 11400000, guid: 0971838f52c2af749857126e091682d0, type: 2}
+      Value: {fileID: 11400000, guid: a391442e6fcb509499098554e5bcfddf, type: 2}

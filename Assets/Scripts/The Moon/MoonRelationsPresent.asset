@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
   m_Name: MoonRelationsPresent
   m_EditorClassIdentifier: 
-  Good: 
-  Bad: 
+  Good: "The Moon, reversed. It reveals itself to those who don\u2019t tend to keep
+    secrets. By opening up and sharing your knowledge with others you now have many
+    friends."
+  Bad: "The Moon, right side up. This tells me you\u2019ve been keeping quiet in
+    your relationships. Your secrets are heavy on your shoulders and a burden on
+    your bonds."

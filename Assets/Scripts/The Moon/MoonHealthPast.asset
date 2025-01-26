@@ -12,5 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
   m_Name: MoonHealthPast
   m_EditorClassIdentifier: 
-  Good: 
-  Bad: 
+  Good: The Moon, right side up. This card tells me you followed your gut. Your quick
+    thinking has helped you avoid many injuries, but it has not always left you without
+    a scratch.
+  Bad: The Moon, reversed. It tells you to use your head. With your ability to ask
+    for help from others, you have managed to keep going, even when you were hurting.

@@ -10,9 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
-  m_Name: MoonRelationsPast
+  m_Name: DevilRelationsPresent
   m_EditorClassIdentifier: 
-  Good: The Moon, right side up. This is the card of secrets and intuition. By keeping
-    a secret close to your chest, you managed to win a friend.
-  Bad: The Moon, reversed. It tells me you were very open. You were not afraid to
-    tell people what you believed in. This made you many friends, but also enemies.
+  Good: 
+  Bad: 

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b1bc004d5f6a7249b15ea09345e7158, type: 3}
   m_Name: MoonHealth
   m_EditorClassIdentifier: 
-  Past: {fileID: 0}
-  Present: {fileID: 0}
-  Future: {fileID: 0}
+  Past: {fileID: 11400000, guid: 87bb69ceb664b2e48982a1e5e0ab703c, type: 2}
+  Present: {fileID: 11400000, guid: 2d368438a6d1e5a4990ddad0dbd5d8ae, type: 2}
+  Future: {fileID: 11400000, guid: ddf52d919003d0c4fb16d00492934a83, type: 2}

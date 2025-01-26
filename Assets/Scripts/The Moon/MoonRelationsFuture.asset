@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
   m_Name: MoonRelationsFuture
   m_EditorClassIdentifier: 
-  Good: 
-  Bad: 
+  Good: "The Moon, right side up. The card of hidden truths. You assume revealing
+    it will end your relationships, but what will happen if you don\u2019t will be
+    much worse."
+  Bad: The Moon, reversed. It urges people to be open but also to use their mind.
+    You will try to force others to be as open as you are, tearing a large rift between
+    those you care about.

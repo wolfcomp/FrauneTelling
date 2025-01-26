@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1b1bc004d5f6a7249b15ea09345e7158, type: 3}
-  m_Name: MoonRelations
+  m_Name: DevilHealth
   m_EditorClassIdentifier: 
-  Past: {fileID: 11400000, guid: b5a99b664b5e6ed418c0e38550d43815, type: 2}
-  Present: {fileID: 11400000, guid: 8c32a4ba0a9f2894390a7404cda467e0, type: 2}
-  Future: {fileID: 11400000, guid: f39ae9791d2507d458abfc8a52e6a873, type: 2}
+  Past: {fileID: 11400000, guid: e6a16adb1e8ed71419e663b09db2e3a8, type: 2}
+  Present: {fileID: 11400000, guid: 263a07e4cdc38e74c9adab16b177113d, type: 2}
+  Future: {fileID: 11400000, guid: 76d6c9832f5125f45a31c1408d3b0979, type: 2}
