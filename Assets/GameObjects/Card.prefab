@@ -304,6 +304,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Bounds: {fileID: 0}
+  ParentToReturnTo: {fileID: 0}
 --- !u!114 &6357902629719547892
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -321,8 +322,8 @@ MonoBehaviour:
   m_MinHeight: -1
   m_PreferredWidth: 100
   m_PreferredHeight: 150
-  m_FlexibleWidth: -1
-  m_FlexibleHeight: -1
+  m_FlexibleWidth: 0
+  m_FlexibleHeight: 0
   m_LayoutPriority: 1
 --- !u!225 &-5724278896288628188
 CanvasGroup:

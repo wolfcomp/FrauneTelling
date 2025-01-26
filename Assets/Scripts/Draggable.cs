@@ -6,7 +6,7 @@ public class Draggable : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDra
 {
     [SerializeField] private Canvas Bounds;
 
-    Transform ParentToReturnTo = null;
+    public Transform ParentToReturnTo = null;
 
     public void OnBeginDrag(PointerEventData eventData) 
     {
