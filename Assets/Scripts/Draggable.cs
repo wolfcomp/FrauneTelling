@@ -8,6 +8,7 @@ public class Draggable : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDra
 
     public Transform ParentToReturnTo = null;
 
+    [System.Obsolete]
     public void OnBeginDrag(PointerEventData eventData) 
     {
         Debug.Log("Card sure is starting to drag");
@@ -20,6 +21,9 @@ public class Draggable : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDra
 
         //disables the card from blocking raycasts while being dragged
         GetComponent<CanvasGroup>().blocksRaycasts = false;
+
+        //this can be used to select all available slots to make them glow or highlight or something
+        //DropZone[] zones = GameObject.FindObjectsOfType<DropZone>();
     }
 
 
