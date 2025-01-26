@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: f717dedf655e9c441bb44138240a16ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4949488249620942410
+    second: theactualbooks_0
+  - first:
+      213: 938637784381918066
+    second: theactualbooks_1
+  - first:
+      213: -4425763391764401263
+    second: theactualbooks_2
+  - first:
+      213: -2250790496549489239
+    second: theactualbooks_3
+  - first:
+      213: -5534726367366027540
+    second: theactualbooks_4
+  - first:
+      213: 8103472634806889794
+    second: theactualbooks_5
+  - first:
+      213: 95464581264070024
+    second: theactualbooks_6
+  - first:
+      213: -3900860999338034218
+    second: theactualbooks_7
+  - first:
+      213: 2232974130643383210
+    second: theactualbooks_8
+  - first:
+      213: 7165004046942857202
+    second: theactualbooks_9
+  - first:
+      213: -3212612702534972114
+    second: theactualbooks_10
+  - first:
+      213: -6094999989961958485
+    second: theactualbooks_11
+  - first:
+      213: -6782316561096605846
+    second: theactualbooks_12
+  - first:
+      213: -3605200112601085332
+    second: theactualbooks_13
+  - first:
+      213: 2448548162565231026
+    second: theactualbooks_14
+  - first:
+      213: 1867688349350029790
+    second: theactualbooks_15
+  - first:
+      213: 3878401032005131992
+    second: theactualbooks_16
+  - first:
+      213: -3614235926444573432
+    second: theactualbooks_17
+  - first:
+      213: -3208219169951278149
+    second: theactualbooks_18
+  - first:
+      213: 6335331201789884038
+    second: theactualbooks_19
+  - first:
+      213: 4461200192288014088
+    second: theactualbooks_20
+  - first:
+      213: 7747797870697946849
+    second: theactualbooks_21
+  - first:
+      213: -5273598248904793286
+    second: theactualbooks_22
+  - first:
+      213: -2973125112760486453
+    second: theactualbooks_23
+  - first:
+      213: -5345678125629653318
+    second: theactualbooks_24
+  - first:
+      213: -8636501392963096968
+    second: theactualbooks_25
+  - first:
+      213: -6886961617046710855
+    second: theactualbooks_26
+  - first:
+      213: -5990460408307493497
+    second: theactualbooks_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 1
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: theactualbooks_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 966
+        width: 523
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1bf5519a2ef4bb0800000000000000
+      internalID: -4949488249620942410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 855
+        width: 202
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b08de7716b60d00800000000000000
+      internalID: 938637784381918066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_2
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 853
+        width: 202
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19374f5d4a78492c0800000000000000
+      internalID: -4425763391764401263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 926
+        width: 514
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5b755f7f593c0e0800000000000000
+      internalID: -2250790496549489239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 894
+        width: 506
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6e82071b3b033b0800000000000000
+      internalID: -5534726367366027540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 856
+        width: 472
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d63c46d61557070800000000000000
+      internalID: 8103472634806889794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 810
+        width: 506
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88550e6e788235100800000000000000
+      internalID: 95464581264070024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 683
+        width: 201
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbf748b69b5dd9c0800000000000000
+      internalID: -3900860999338034218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_8
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 685
+        width: 202
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3b2a9142e1dfe10800000000000000
+      internalID: 2232974130643383210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 787
+        width: 491
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7e34808353f6360800000000000000
+      internalID: 7165004046942857202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 747
+        width: 387
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dce78a4c18a63d0800000000000000
+      internalID: -3212612702534972114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 768
+        width: 202
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babde444dc53a6ba0800000000000000
+      internalID: -6094999989961958485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 755
+        width: 202
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f769d950f50e1a0800000000000000
+      internalID: -6782316561096605846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 706
+        width: 557
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ac6384991c7fdc0800000000000000
+      internalID: -3605200112601085332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 555
+        width: 179
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1d225b49dfaf120800000000000000
+      internalID: 2448548162565231026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 421
+        width: 196
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9e42688ac5be910800000000000000
+      internalID: 1867688349350029790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 661
+        width: 310
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de9c21a039d2d530800000000000000
+      internalID: 3878401032005131992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_17
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 660
+        width: 359
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80df0dde297a7ddc0800000000000000
+      internalID: -3614235926444573432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 404
+        width: 178
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb947da9ad1a73d0800000000000000
+      internalID: -3208219169951278149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 238
+        width: 99
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6867229792e9be750800000000000000
+      internalID: 6335331201789884038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_20
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 220
+        width: 236
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f3b3d30fd59ed30800000000000000
+      internalID: 4461200192288014088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_21
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 407
+        width: 364
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee9a722d15b58b60800000000000000
+      internalID: 7747797870697946849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 221
+        width: 170
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3368e5555a60d6b0800000000000000
+      internalID: -5273598248904793286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 258
+        width: 125
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc53e1556765db6d0800000000000000
+      internalID: -2973125112760486453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_24
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 160
+        width: 354
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abeb44e311650d5b0800000000000000
+      internalID: -5345678125629653318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 508
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ea442cdbbf42880800000000000000
+      internalID: -8636501392963096968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 4
+        width: 135
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b55e22e5e89c60a0800000000000000
+      internalID: -6886961617046710855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theactualbooks_27
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 4
+        width: 351
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7855ac95ffb9ddca0800000000000000
+      internalID: -5990460408307493497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

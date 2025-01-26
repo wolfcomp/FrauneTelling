@@ -1,0 +1,2742 @@
+fileFormatVersion: 2
+guid: 6a8ed436a0ce7ea4db1ba7f6a9cd15c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2691204778109574120
+    second: DesknOthers_norm_0
+  - first:
+      213: 7111570259293695647
+    second: DesknOthers_norm_1
+  - first:
+      213: -545615259567157140
+    second: DesknOthers_norm_2
+  - first:
+      213: -8313427430603627982
+    second: DesknOthers_norm_3
+  - first:
+      213: -3359742251339270305
+    second: DesknOthers_norm_4
+  - first:
+      213: -7432476130674988472
+    second: DesknOthers_norm_5
+  - first:
+      213: 8766081550684744526
+    second: DesknOthers_norm_6
+  - first:
+      213: 1226017561351781283
+    second: DesknOthers_norm_7
+  - first:
+      213: 5226121219313118045
+    second: DesknOthers_norm_8
+  - first:
+      213: -2566752902864432109
+    second: DesknOthers_norm_9
+  - first:
+      213: 156949623829899267
+    second: DesknOthers_norm_10
+  - first:
+      213: 4765214657506784281
+    second: DesknOthers_norm_11
+  - first:
+      213: -1887018105101118526
+    second: DesknOthers_norm_12
+  - first:
+      213: 3124755721370749362
+    second: DesknOthers_norm_13
+  - first:
+      213: 8299664461172649399
+    second: DesknOthers_norm_14
+  - first:
+      213: 3490588372460870747
+    second: DesknOthers_norm_15
+  - first:
+      213: 7499051997878672685
+    second: DesknOthers_norm_16
+  - first:
+      213: -1426924893899404873
+    second: DesknOthers_norm_17
+  - first:
+      213: -3721166581733065855
+    second: DesknOthers_norm_18
+  - first:
+      213: -6342870725234505476
+    second: DesknOthers_norm_19
+  - first:
+      213: -2675944699216101140
+    second: DesknOthers_norm_20
+  - first:
+      213: 7677712298624429883
+    second: DesknOthers_norm_21
+  - first:
+      213: -40313994644187497
+    second: DesknOthers_norm_22
+  - first:
+      213: -2303803999728882
+    second: DesknOthers_norm_23
+  - first:
+      213: -4894435362164504092
+    second: DesknOthers_norm_24
+  - first:
+      213: -4762025817082555734
+    second: DesknOthers_norm_25
+  - first:
+      213: 849892147364180665
+    second: DesknOthers_norm_26
+  - first:
+      213: 1651141141920512417
+    second: DesknOthers_norm_27
+  - first:
+      213: -5518290894217530773
+    second: DesknOthers_norm_28
+  - first:
+      213: -1236084012433937594
+    second: DesknOthers_norm_29
+  - first:
+      213: -8036964246633947278
+    second: DesknOthers_norm_30
+  - first:
+      213: 4605393758495930103
+    second: DesknOthers_norm_31
+  - first:
+      213: 50906480671593799
+    second: DesknOthers_norm_32
+  - first:
+      213: 2138919600953118700
+    second: DesknOthers_norm_33
+  - first:
+      213: 668980975246283388
+    second: DesknOthers_norm_34
+  - first:
+      213: 1339251504666308292
+    second: DesknOthers_norm_35
+  - first:
+      213: 6154704431151736078
+    second: DesknOthers_norm_36
+  - first:
+      213: -2023185531737207801
+    second: DesknOthers_norm_37
+  - first:
+      213: 6666429244587105476
+    second: DesknOthers_norm_38
+  - first:
+      213: 2940504040020900323
+    second: DesknOthers_norm_39
+  - first:
+      213: -2115989365210691149
+    second: DesknOthers_norm_40
+  - first:
+      213: 3809167245840762707
+    second: DesknOthers_norm_41
+  - first:
+      213: -1980696342437847666
+    second: DesknOthers_norm_42
+  - first:
+      213: -301637852413773125
+    second: DesknOthers_norm_43
+  - first:
+      213: 7476081400511910943
+    second: DesknOthers_norm_44
+  - first:
+      213: 8146465604765763052
+    second: DesknOthers_norm_45
+  - first:
+      213: -8012858572991694678
+    second: DesknOthers_norm_46
+  - first:
+      213: 9127075707693679775
+    second: DesknOthers_norm_47
+  - first:
+      213: -6860241159219151949
+    second: DesknOthers_norm_48
+  - first:
+      213: 7064541799126760262
+    second: DesknOthers_norm_49
+  - first:
+      213: 3372205520789226073
+    second: DesknOthers_norm_50
+  - first:
+      213: 2389060401509033120
+    second: DesknOthers_norm_51
+  - first:
+      213: -6179182700685792805
+    second: DesknOthers_norm_52
+  - first:
+      213: 5521066293448641295
+    second: DesknOthers_norm_53
+  - first:
+      213: -2686340204651965646
+    second: DesknOthers_norm_54
+  - first:
+      213: 6349136692341969084
+    second: DesknOthers_norm_55
+  - first:
+      213: 4672656819213278746
+    second: DesknOthers_norm_56
+  - first:
+      213: -6596945320841391728
+    second: DesknOthers_norm_57
+  - first:
+      213: -6947727960538131801
+    second: DesknOthers_norm_58
+  - first:
+      213: 363048771332417059
+    second: DesknOthers_norm_59
+  - first:
+      213: 6526739167839943401
+    second: DesknOthers_norm_60
+  - first:
+      213: 4835681148564218949
+    second: DesknOthers_norm_61
+  - first:
+      213: -2733228574828518698
+    second: DesknOthers_norm_62
+  - first:
+      213: 7194905080497013204
+    second: DesknOthers_norm_63
+  - first:
+      213: 4475615820649807824
+    second: DesknOthers_norm_64
+  - first:
+      213: 7111569648228114738
+    second: DesknOthers_norm_65
+  - first:
+      213: 2987539670686042285
+    second: DesknOthers_norm_66
+  - first:
+      213: 8363273693298825035
+    second: DesknOthers_norm_67
+  - first:
+      213: -8534762789800814899
+    second: DesknOthers_norm_68
+  - first:
+      213: -6533281202687661845
+    second: DesknOthers_norm_69
+  - first:
+      213: 2446275843882320263
+    second: DesknOthers_norm_70
+  - first:
+      213: 7991468569200978745
+    second: DesknOthers_norm_71
+  - first:
+      213: 4018050439864986426
+    second: DesknOthers_norm_72
+  - first:
+      213: -2302711105172743015
+    second: DesknOthers_norm_73
+  - first:
+      213: -2988470252882912277
+    second: DesknOthers_norm_74
+  - first:
+      213: -8494947738483658978
+    second: DesknOthers_norm_75
+  - first:
+      213: 6213142637206125578
+    second: DesknOthers_norm_76
+  - first:
+      213: 5683627750698771423
+    second: DesknOthers_norm_77
+  - first:
+      213: 8654078819816240905
+    second: DesknOthers_norm_78
+  - first:
+      213: -4171938441765771638
+    second: DesknOthers_norm_79
+  - first:
+      213: -9216736072158872401
+    second: DesknOthers_norm_80
+  - first:
+      213: -5794583107884669962
+    second: DesknOthers_norm_81
+  - first:
+      213: -4122131430787711549
+    second: DesknOthers_norm_82
+  - first:
+      213: 3903385255247029635
+    second: DesknOthers_norm_83
+  - first:
+      213: 4755229074170056793
+    second: DesknOthers_norm_84
+  - first:
+      213: 8639087186185110527
+    second: DesknOthers_norm_85
+  - first:
+      213: 6909404193507852430
+    second: DesknOthers_norm_86
+  - first:
+      213: -9203472474993890655
+    second: DesknOthers_norm_87
+  - first:
+      213: 1807412918515349871
+    second: DesknOthers_norm_88
+  - first:
+      213: -1471792783590789684
+    second: DesknOthers_norm_89
+  - first:
+      213: -3773178541385133017
+    second: DesknOthers_norm_90
+  - first:
+      213: 3056830807616274001
+    second: DesknOthers_norm_91
+  - first:
+      213: -2962700854382809217
+    second: DesknOthers_norm_92
+  - first:
+      213: 1434987580575455410
+    second: DesknOthers_norm_93
+  - first:
+      213: 12596935379826522
+    second: DesknOthers_norm_94
+  - first:
+      213: 7439604538432188034
+    second: DesknOthers_norm_95
+  - first:
+      213: 8464634247961504957
+    second: DesknOthers_norm_96
+  - first:
+      213: 3707172062010476088
+    second: DesknOthers_norm_97
+  - first:
+      213: -7464655552690178693
+    second: DesknOthers_norm_98
+  - first:
+      213: 3131790749575524214
+    second: DesknOthers_norm_99
+  - first:
+      213: 1107157089459068186
+    second: DesknOthers_norm_100
+  - first:
+      213: 2877640474992802109
+    second: DesknOthers_norm_101
+  - first:
+      213: -6403488893784252077
+    second: DesknOthers_norm_102
+  - first:
+      213: -2414953608299763286
+    second: DesknOthers_norm_103
+  - first:
+      213: 7689831031411297661
+    second: DesknOthers_norm_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 1
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DesknOthers_norm_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 941
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814e1fe438be6aad0800000000000000
+      internalID: -2691204778109574120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 941
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eee6cd87f51b260800000000000000
+      internalID: 7111570259293695647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 780
+        width: 7
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60977defc59d68f0800000000000000
+      internalID: -545615259567157140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 950
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232e1ec5cc5c0ac80800000000000000
+      internalID: -8313427430603627982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 925
+        width: 24
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f573d0c193ccf51d0800000000000000
+      internalID: -3359742251339270305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 925
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a2c8d865a8ad890800000000000000
+      internalID: -7432476130674988472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 925
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b6ba4c9b067a970800000000000000
+      internalID: 8766081550684744526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 925
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab73c0f970b30110800000000000000
+      internalID: 1226017561351781283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 936
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b2a4e4f89e68840800000000000000
+      internalID: 5226121219313118045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 910
+        width: 27
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314109685df016cd0800000000000000
+      internalID: -2566752902864432109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 910
+        width: 34
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3082300f9d89d2200800000000000000
+      internalID: 156949623829899267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_11
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 908
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9143d2bdb71712240800000000000000
+      internalID: 4765214657506784281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_12
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 910
+        width: 27
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c397b00807ffc5e0800000000000000
+      internalID: -1887018105101118526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_13
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 976
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b94c2ed5cc5d5b20800000000000000
+      internalID: 3124755721370749362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_14
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 910
+        width: 27
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd212b9ad45e2370800000000000000
+      internalID: 8299664461172649399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 892
+        width: 27
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c93ad71af017030800000000000000
+      internalID: 3490588372460870747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 915
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dddb57f0cf11860800000000000000
+      internalID: 7499051997878672685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_17
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 915
+        width: 27
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9c6f18e5b823ce0800000000000000
+      internalID: -1426924893899404873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 915
+        width: 34
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bfeb1a5b2cb5cc0800000000000000
+      internalID: -3721166581733065855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_19
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 842
+        width: 7
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf84c2e6ea899f7a0800000000000000
+      internalID: -6342870725234505476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_20
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 942
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce082ac49722ddad0800000000000000
+      internalID: -2675944699216101140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_21
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 909
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f282748a6bc8a60800000000000000
+      internalID: 7677712298624429883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_22
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 643
+        width: 80
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79691cda2a6c07ff0800000000000000
+      internalID: -40313994644187497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 874
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bc6f4d3b0d7fff0800000000000000
+      internalID: -2303803999728882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 874
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9031e48f8731cb0800000000000000
+      internalID: -4894435362164504092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 812
+        width: 25
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa21e89efb2e9edb0800000000000000
+      internalID: -4762025817082555734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 787
+        width: 25
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b23905b76c6bcb00800000000000000
+      internalID: 849892147364180665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 787
+        width: 26
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a97436de180ae610800000000000000
+      internalID: 1651141141920512417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 787
+        width: 25
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6234ea3ba71b63b0800000000000000
+      internalID: -5518290894217530773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 787
+        width: 26
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64be556c32c88dee0800000000000000
+      internalID: -1236084012433937594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_30
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 770
+        width: 22
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f5ede6997f67090800000000000000
+      internalID: -8036964246633947278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 770
+        width: 6
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f673f11935a9ef30800000000000000
+      internalID: 4605393758495930103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 835
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7451239ac2bd4b000800000000000000
+      internalID: 50906480671593799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 742
+        width: 73
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef4ee96b08fead10800000000000000
+      internalID: 2138919600953118700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_34
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 742
+        width: 22
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c729c0f07a2b84900800000000000000
+      internalID: 668980975246283388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_35
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 742
+        width: 6
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceea88d52af59210800000000000000
+      internalID: 1339251504666308292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 837
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0562543217e96550800000000000000
+      internalID: 6154704431151736078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_37
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 726
+        width: 22
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c081a6a733ce3e0800000000000000
+      internalID: -2023185531737207801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_38
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 842
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccd3e3e31ae38c50800000000000000
+      internalID: 6666429244587105476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_39
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 842
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9fb0e48d4cec820800000000000000
+      internalID: 2940504040020900323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_40
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 842
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9cc1222ee72a2e0800000000000000
+      internalID: -2115989365210691149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_41
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 869
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3574462ad61ecd430800000000000000
+      internalID: 3809167245840762707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_42
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 873
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d9315bb272384e0800000000000000
+      internalID: -1980696342437847666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_43
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 758
+        width: 22
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbab01ca8fd50dbf0800000000000000
+      internalID: -301637852413773125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_44
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 758
+        width: 9
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14da6d7c6060c760800000000000000
+      internalID: 7476081400511910943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_45
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 758
+        width: 9
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce540034e4f0e0170800000000000000
+      internalID: 8146465604765763052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 780
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8f261f49b9cc090800000000000000
+      internalID: -8012858572991694678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 646
+        width: 21
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94cd23bff2e9ae70800000000000000
+      internalID: 9127075707693679775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_48
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 726
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb7a3743078bc0a0800000000000000
+      internalID: -6860241159219151949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_49
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 731
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b79d5365b4a0260800000000000000
+      internalID: 7064541799126760262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_50
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 731
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952c040fd0b7cce20800000000000000
+      internalID: 3372205520789226073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_51
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 731
+        width: 39
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4e5e207c5a72120800000000000000
+      internalID: 2389060401509033120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_52
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 591
+        width: 11
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9626b82122f3aa0800000000000000
+      internalID: -6179182700685792805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 646
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b8362ca84ce9c40800000000000000
+      internalID: 5521066293448641295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_54
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 645
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2339ed311d338bad0800000000000000
+      internalID: -2686340204651965646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_55
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 632
+        width: 39
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb01179be2aac1850800000000000000
+      internalID: 6349136692341969084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_56
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 591
+        width: 139
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e938ace9c98d040800000000000000
+      internalID: 4672656819213278746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_57
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 591
+        width: 118
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091d29cce21f274a0800000000000000
+      internalID: -6596945320841391728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_58
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 597
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a253140b36b49f90800000000000000
+      internalID: -6947727960538131801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_59
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 597
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326296b1feec90500800000000000000
+      internalID: 363048771332417059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_60
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 605
+        width: 6
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea7ab861b2a39a50800000000000000
+      internalID: 6526739167839943401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_61
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 592
+        width: 22
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5442933526acb1340800000000000000
+      internalID: 4835681148564218949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_62
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 591
+        width: 22
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2266ba71f911ad0800000000000000
+      internalID: -2733228574828518698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 494
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d18dabec0079d360800000000000000
+      internalID: 7194905080497013204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 309
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df33f440e49c1e30800000000000000
+      internalID: 4475615820649807824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_65
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 494
+        width: 139
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23126169aee51b260800000000000000
+      internalID: 7111569648228114738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_66
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 309
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da801a7708fd57920800000000000000
+      internalID: 2987539670686042285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_67
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 494
+        width: 39
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4712701d11501470800000000000000
+      internalID: 8363273693298825035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_68
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 309
+        width: 82
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc653b7367e6e8980800000000000000
+      internalID: -8534762789800814899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_69
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 309
+        width: 81
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8a0186c5f1555a0800000000000000
+      internalID: -6533281202687661845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_70
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 309
+        width: 81
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78189394beae2f120800000000000000
+      internalID: 2446275843882320263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_71
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 309
+        width: 72
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b6ce4b25667ee60800000000000000
+      internalID: 7991468569200978745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_72
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 444
+        width: 71
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b21c5269bf2c730800000000000000
+      internalID: 4018050439864986426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_73
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 444
+        width: 8
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cd4db33702b00e0800000000000000
+      internalID: -2302711105172743015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_74
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 309
+        width: 11
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb971b7322d686d0800000000000000
+      internalID: -2988470252882912277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_75
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 309
+        width: 11
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f6c2e3a02eb1a80800000000000000
+      internalID: -8494947738483658978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_76
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 534
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c31855f44893650800000000000000
+      internalID: 6213142637206125578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_77
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 461
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3e3fb735d40ee40800000000000000
+      internalID: 5683627750698771423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_78
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 528
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907f069d5d6791870800000000000000
+      internalID: 8654078819816240905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_79
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 461
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8621c1571c4a16c0800000000000000
+      internalID: -4171938441765771638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_80
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 461
+        width: 45
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facf07eef53971080800000000000000
+      internalID: -9216736072158872401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_81
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 309
+        width: 103
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f32e094d51859fa0800000000000000
+      internalID: -5794583107884669962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_82
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 309
+        width: 22
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdfc6ebd4f3bc6c0800000000000000
+      internalID: -4122131430787711549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_83
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 309
+        width: 9
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3852f78653c9b2630800000000000000
+      internalID: 3903385255247029635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_84
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 309
+        width: 58
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950148f06a7fdf140800000000000000
+      internalID: 4755229074170056793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_85
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 309
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff34134260434e770800000000000000
+      internalID: 8639087186185110527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_86
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 277
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8041a3a18223ef50800000000000000
+      internalID: 6909404193507852430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_87
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 6
+        width: 277
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa67ebcb82b64080800000000000000
+      internalID: -9203472474993890655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_88
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 6
+        width: 72
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f693f8a2978351910800000000000000
+      internalID: 1807412918515349871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_89
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 194
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd661fd244239be0800000000000000
+      internalID: -1471792783590789684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_90
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 6
+        width: 10
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724dc969b1af2abc0800000000000000
+      internalID: -3773178541385133017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_91
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 6
+        width: 28
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e307a7c6b0c6a20800000000000000
+      internalID: 3056830807616274001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_92
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 144
+        width: 39
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f24ce154f52e6d0800000000000000
+      internalID: -2962700854382809217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_93
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 273
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b81c450a991ae310800000000000000
+      internalID: 1434987580575455410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_94
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 273
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57b29298d0cc2000800000000000000
+      internalID: 12596935379826522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_95
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 6
+        width: 81
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e62a639e8ce3760800000000000000
+      internalID: 7439604538432188034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_96
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 100
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbce95f300c687570800000000000000
+      internalID: 8464634247961504957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_97
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 172
+        width: 6
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83603655955827330800000000000000
+      internalID: 3707172062010476088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_98
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 6
+        width: 22
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7531430357386890800000000000000
+      internalID: -7464655552690178693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_99
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 144
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fad43081b567b20800000000000000
+      internalID: 3131790749575524214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_100
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 144
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d53c3c1896d5f00800000000000000
+      internalID: 1107157089459068186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_101
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 6
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d397b3ff3ce6fe720800000000000000
+      internalID: 2877640474992802109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_102
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 6
+        width: 25
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351a4da37cc3227a0800000000000000
+      internalID: -6403488893784252077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_103
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 71
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9ae3cfc7c5c7ed0800000000000000
+      internalID: -2414953608299763286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesknOthers_norm_104
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 6
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dcb02a494c7ba60800000000000000
+      internalID: 7689831031411297661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
