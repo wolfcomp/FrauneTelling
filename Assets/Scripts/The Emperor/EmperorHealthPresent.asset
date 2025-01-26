@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
   m_Name: EmperorHealthPresent
   m_EditorClassIdentifier: 
-  Good: "The Lovers, right side up. You have people who catch you when you fall.
-    With your community, you\u2019ve persevered through hardships."
-  Bad: "The Lovers, reversed. You may feel you\u2019re lacking. There is someone
-    or something you are missing and it is taking a toll on you and your dreams."
+  Good: The Emperor, right side up. A sign of stability. Now your current health
+    is of no detriment to your life, though that may not be the case in the future.
+  Bad: The Emperor, reversed. A sign of vulnerability. You lack a care that would
+    save you from the harshness of illness if you simply tried.

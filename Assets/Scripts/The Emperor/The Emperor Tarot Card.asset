@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ba9d6ed0f387d2046aa6c9ef782e73b9, type: 3}
-  m_Name: The Lovers
+  m_Name: The Emperor Tarot Card
   m_EditorClassIdentifier: 
-  Name: The Devil
+  Name: The Emperor
   Sprite: {fileID: 0}
   Sentences:
     _serializedList:
     - Key: Prosperity
-      Value: {fileID: 11400000, guid: 548a03d57fdbd1d41b0111c006607135, type: 2}
+      Value: {fileID: 11400000, guid: 2ba8c648c74617045b88d218bf36efde, type: 2}
     - Key: Health
-      Value: {fileID: 11400000, guid: 42111b406afd873418e51575861c7247, type: 2}
+      Value: {fileID: 11400000, guid: d8c89723716486044a0d1fd4cb267390, type: 2}
     - Key: Relations
-      Value: {fileID: 11400000, guid: ca4ff10f5893324499d2204f1a8155fb, type: 2}
+      Value: {fileID: 11400000, guid: 416d46af80a9855449ec4790a49b3758, type: 2}

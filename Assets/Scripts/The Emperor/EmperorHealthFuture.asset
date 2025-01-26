@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
   m_Name: EmperorHealthFuture
   m_EditorClassIdentifier: 
-  Good: The Lovers, right side up. A symbol of harmony, either with yourself or others.
-    I see a future where you will flourish, but only if you find peace within yourself
-    or find someone to grow with you.
-  Bad: The Lovers, reversed. You need to be careful. Do not take others for granted.
-    Death has many accomplices, and their ire will hurt you.
+  Good: "The Emperor, right side up. It is a call for you to be confident in what
+    you\u2019re pursuing. If you are, I see only greater health in your future."
+  Bad: "The Emperor, reversed. A sign you\u2019re not putting your best foot forward.
+    Your illness is destined to consume you."

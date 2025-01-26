@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
   m_Name: EmperorRelationsPresent
   m_EditorClassIdentifier: 
-  Good: The Lovers, right side up. The sign of partnership. You are surrounded by
-    people who have helped you achieve great things.
-  Bad: "The Lovers, reversed. I see you\u2019re dealing with a great conflict. You\u2019re
-    butting heads left and right, getting in the way of your current work."
+  Good: "The Emperor, right side up. I see great confidence. You have a beneficial
+    relationship with a deep bond. It\u2019s the strongest it\u2019s ever been."
+  Bad: The Emperor, reversed. A mishap has occurred in your relationship. An unexpected
+    disagreement has rocked the foundation of your bond.

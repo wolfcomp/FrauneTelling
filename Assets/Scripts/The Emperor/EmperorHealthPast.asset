@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
   m_Name: EmperorHealthPast
   m_EditorClassIdentifier: 
-  Good: "The Lovers, right side up. You\u2019ve managed to grow up without much conflict
-    in your life, leaving you with a healthier outlook."
-  Bad: "The Lovers, reversed. Ah\u2026your health has stopped you from forming a
-    deeper connection with others, disrupting the life you wished for."
+  Good: "The Emperor, right side up. A powerful figure. You\u2019ve kept a confident
+    swing in your life, and so far it\u2019s kept you from harm."
+  Bad: "The Emperor, reversed. A sign you weren\u2019t able to reach your full potential.
+    You\u2019ve struggled with the instability of a health issue that\u2019s plagued
+    your life."

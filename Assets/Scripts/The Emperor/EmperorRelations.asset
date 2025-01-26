@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b1bc004d5f6a7249b15ea09345e7158, type: 3}
   m_Name: EmperorRelations
   m_EditorClassIdentifier: 
-  Past: {fileID: 11400000, guid: 8aa5912a45e207a449ae5de7cbbeb0c2, type: 2}
-  Present: {fileID: 11400000, guid: c48044cfcdee2d54f85758668cfa8867, type: 2}
-  Future: {fileID: 11400000, guid: 2807064a35a511846b11e14def5500de, type: 2}
+  Past: {fileID: 11400000, guid: 1fb1361e33a5a2e42aa47df1f082c14e, type: 2}
+  Present: {fileID: 11400000, guid: 3d708de943cde2746a97921dd2936e97, type: 2}
+  Future: {fileID: 11400000, guid: b74d8378817a1f44db425d303892364d, type: 2}

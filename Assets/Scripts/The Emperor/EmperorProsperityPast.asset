@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
   m_Name: EmperorProsperityPast
   m_EditorClassIdentifier: 
-  Good: "The Lovers, right side up. A symbol of harmony. Throughout your young life,
-    you\u2019ve gained many strong bonds through your acts of kindness."
-  Bad: The Lovers, reversed. This is a card that means conflict. When you were faced
-    with adversity you let your relationships crumble.
+  Good: The Emperor, right side up. A card of authority. In the past, you have had
+    great success and stability in wealth.
+  Bad: The Emperor, reversed. A symbol of powerlessness. Your relationship with money
+    has been rocky since your youth.
