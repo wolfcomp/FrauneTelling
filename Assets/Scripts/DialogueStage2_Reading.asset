@@ -12,6 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe315eae7761a4040a1344c2ec5ec508, type: 3}
   m_Name: DialogueStage2_Reading
   m_EditorClassIdentifier: 
-  Dialogue: []
+  Dialogue:
+  - "Welcome, welcome. I sense your desire for answers and guidance\u2026"
+  - However, we only have time to explore one potential future today.
+  - 'Do you wish for me to read into your Prosperity, Health, or Relationships? '
+  - "Hmmm\u2026"
+  - "I\u2019d like you to look into my {0}."
+  - An excellent choice!
+  - I will draw three cards, one for your past, one for your present, and one for
+    your future.
+  - ' I will ask you to flip them over like a page in a book one by one so the cards
+    can be imbued in your energy and give a more accurate reading. '
+  - First, your past.
+  - Now, your present.
+  - And finally, your future.
+  - "You\u2019ve given me a lot to think over. Thank you."
   Position: {x: 0, y: 0, z: 0}
   Sprite: {fileID: 0}
