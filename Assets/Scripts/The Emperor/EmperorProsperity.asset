@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b1bc004d5f6a7249b15ea09345e7158, type: 3}
+  m_Name: EmperorProsperity
+  m_EditorClassIdentifier: 
+  Past: {fileID: 11400000, guid: aacec805afd270b429bab4f13c678050, type: 2}
+  Present: {fileID: 11400000, guid: becffaca86da61b46a58d2b173ad7e1b, type: 2}
+  Future: {fileID: 11400000, guid: 5770eaf12b63a444f89275f89d2a55dc, type: 2}

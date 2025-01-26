@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
+  m_Name: EmperorProsperityPresent
+  m_EditorClassIdentifier: 
+  Good: The Lovers, right side up. This tells me you have a strong connection with
+    someone. They are there for you as you are there for them.
+  Bad: "The Lovers, reversed. This card tells me there\u2019s a large rift between
+    you and your loved ones. There is something you can\u2019t get past and it\u2019s
+    putting a strain on your relationships."
