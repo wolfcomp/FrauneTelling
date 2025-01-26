@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
-  m_Name: LoversProsperityPresent
+  m_Name: LoversHealthPast
   m_EditorClassIdentifier: 
-  Good: "The Devil, right side up. The card of obsession. You are wasting too many
-    of your resources on something you can\u2019t give up on."
-  Bad: The Devil, reversed. A sign of breaking away from chains that try to hold
-    you back. Your search for freedom has granted you opportunities leading to your
-    current accomplishments.
+  Good: "The Lovers, right side up. You\u2019ve managed to grow up without much conflict
+    in your life, leaving you with a healthier outlook."
+  Bad: "The Lovers, reversed. Ah\u2026your health has stopped you from forming a
+    deeper connection with others, disrupting the life you wished for."

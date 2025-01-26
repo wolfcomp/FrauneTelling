@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1b1bc004d5f6a7249b15ea09345e7158, type: 3}
-  m_Name: LoversRelations
+  m_Name: LoversHealth
   m_EditorClassIdentifier: 
-  Past: {fileID: 11400000, guid: 9afc6e96eb2251b48b6432cb86dcf998, type: 2}
-  Present: {fileID: 11400000, guid: 3a298f33834cdb44a8847e62b1c5ef73, type: 2}
-  Future: {fileID: 11400000, guid: 0080082855174424a9744da10e0a052a, type: 2}
+  Past: {fileID: 11400000, guid: d2e0d9823b266ae4098e9ad2f73ac72e, type: 2}
+  Present: {fileID: 11400000, guid: 415dd28fd9112394cb096079b67f14ba, type: 2}
+  Future: {fileID: 11400000, guid: 3f290ff7dd71dc54db1694ae7d5e937b, type: 2}

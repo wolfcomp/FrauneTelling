@@ -17,8 +17,8 @@ MonoBehaviour:
   Sentences:
     _serializedList:
     - Key: Prosperity
-      Value: {fileID: 11400000, guid: e23f39ad56bf09c46a4c27a261601517, type: 2}
+      Value: {fileID: 11400000, guid: 548a03d57fdbd1d41b0111c006607135, type: 2}
     - Key: Health
-      Value: {fileID: 11400000, guid: 22d60d85df5acb64e8f997452e5a60e7, type: 2}
+      Value: {fileID: 11400000, guid: 42111b406afd873418e51575861c7247, type: 2}
     - Key: Relations
-      Value: {fileID: 11400000, guid: a391442e6fcb509499098554e5bcfddf, type: 2}
+      Value: {fileID: 11400000, guid: ca4ff10f5893324499d2204f1a8155fb, type: 2}

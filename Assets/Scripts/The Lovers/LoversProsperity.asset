@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b1bc004d5f6a7249b15ea09345e7158, type: 3}
   m_Name: LoversProsperity
   m_EditorClassIdentifier: 
-  Past: {fileID: 11400000, guid: a7f7e7fa51c7ed44e9c0a284f838366b, type: 2}
-  Present: {fileID: 11400000, guid: 4707ed5690c54ee47983c803366206b6, type: 2}
-  Future: {fileID: 11400000, guid: 6f7e9edaf6652ad4da57063b789fb3f6, type: 2}
+  Past: {fileID: 11400000, guid: aacec805afd270b429bab4f13c678050, type: 2}
+  Present: {fileID: 11400000, guid: becffaca86da61b46a58d2b173ad7e1b, type: 2}
+  Future: {fileID: 11400000, guid: 5770eaf12b63a444f89275f89d2a55dc, type: 2}

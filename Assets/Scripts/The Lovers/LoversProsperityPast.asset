@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
-  m_Name: LoversRelationsFuture
+  m_Name: LoversProsperityPast
   m_EditorClassIdentifier: 
-  Good: The Devil, right side up. This card reveals an obsessive future. Your crippling
-    addiction is not only hurting yourself but your loved ones as well.
-  Bad: "The Devil, reversed. A card signifying finally being free from one\u2019s
-    shackles. Freedom will come to you if you embrace other people in your life."
+  Good: "The Lovers, right side up. A symbol of harmony. Throughout your young life,
+    you\u2019ve gained many strong bonds through your acts of kindness."
+  Bad: The Lovers, reversed. This is a card that means conflict. When you were faced
+    with adversity you let your relationships crumble.

@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
-  m_Name: LoversProsperityPast
+  m_Name: LoversHealthPresent
   m_EditorClassIdentifier: 
-  Good: The Devil, right side up. This card relates to fear and control. In your
-    past, your fear drove you on a path away from what you dreamt of as a child.
-  Bad: The Devil, reversed. Rather than being controlled, you were the one with the
-    reins. You achieved recognition when you stood up for your ideals.
+  Good: "The Lovers, right side up. You have people who catch you when you fall.
+    With your community, you\u2019ve persevered through hardships."
+  Bad: "The Lovers, reversed. You may feel you\u2019re lacking. There is someone
+    or something you are missing and it is taking a toll on you and your dreams."

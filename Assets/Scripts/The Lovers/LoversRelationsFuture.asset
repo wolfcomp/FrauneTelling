@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
-  m_Name: LoversRelationsPresent
+  m_Name: LoversRelationsFuture
   m_EditorClassIdentifier: 
-  Good: The Devil, right side up. A card signifying deep-rooted fear. You are unable
-    to show people your true self, as you are terrified of what would happen if you
-    are not accepted.
-  Bad: The Devil, reversed. A card of freedom. You are not as confined as you once
-    thought. You have found an exit through the friends around you.
+  Good: The Lovers, right side up. I notice unity in your future here. Through collaboration,
+    you will be granted aid in your toughest ventures and achieve greatness.
+  Bad: The Lovers, reversed. I see you alone. Your way of life will leave you empty
+    and isolated, unable to reach for the things you want most in life.

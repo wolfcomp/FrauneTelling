@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
-  m_Name: LoversRelationsPast
+  m_Name: LoversRelationsPresent
   m_EditorClassIdentifier: 
-  Good: The Devil, right side up. This signifies an unhealthy obsession. An early
-    attachment of yours had grown too large, leaving you empty when you could no
-    longer latch onto it.
-  Bad: The Devil, reversed. This signifies braving something new. A moment of courage
-    in your past allowed your bond with another to grow.
+  Good: The Lovers, right side up. The sign of partnership. You are surrounded by
+    people who have helped you achieve great things.
+  Bad: "The Lovers, reversed. I see you\u2019re dealing with a great conflict. You\u2019re
+    butting heads left and right, getting in the way of your current work."
