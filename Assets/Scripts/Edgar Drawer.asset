@@ -12,7 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37f0e17712a7bd245bad5bd666881b20, type: 3}
   m_Name: Edgar Drawer
   m_EditorClassIdentifier: 
-  Name: 
-  Occupation: 
-  Detailed: 
+  Name: Edgar Otterdal
+  Occupation: Former Veteran
+  Detailed: "He\u2019s pretty boring to follow. Tries to go around even though his
+    bones be aching to all hell and should really just be stayin home. Not to say
+    he\u2019s not easy on the eyes. Can\u2019t wait til he dies!  I found his journal
+    though and boy was his life different before the army. A loving family, great
+    relationships. I found an old football medal tucked away in his attic. The paper
+    was a bit torn, but I think he got a football scholarship to boot! My kind of
+    man!  But this guy\u2019s been through the wringer in the army. Can\u2019t sleep
+    a wink no more. I\u2019ve seen him try to brew his own herbal medicine instead
+    of visiting a doctor. I think I know why. I\u2019ve watched him long enough to
+    notice that he looks weary at others. Not because he\u2019s afraid of them, but
+    because he\u2019s worried they\u2019ll be afraid of him. That refusal to get
+    close is gonna be the end of him. Then I\u2019ll have the chance to get close
+    to him! "
   Sprite: {fileID: 0}

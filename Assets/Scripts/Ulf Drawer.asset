@@ -12,7 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37f0e17712a7bd245bad5bd666881b20, type: 3}
   m_Name: Ulf Drawer
   m_EditorClassIdentifier: 
-  Name: 
-  Occupation: 
-  Detailed: 
+  Name: Ulf Ulvesen Jr.
+  Occupation: Detective
+  Detailed: "He\u2019s already such a shy man, it\u2019s easy to tell he never got
+    much lovin in his early life. Listened in on a phone call he had at 9:13 during
+    his job. Apologized over and over again to his client before leavin to take the
+    call. Turns out it was his mother! I think she barely qualifies as a mother with
+    the amount of disinterest she had in her own kid. I\u2019ll spit on her grave
+    and give her a punch when she dies.  His coworker gave him a good pat on the
+    shoulder, told him she\u2019d take care of the client since it looked like he
+    needed a moment. He\u2019s definitely got some friends now, but I don\u2019t
+    think anyone knows his past. Big fella probably doesn\u2019t want to burden them
+    with it.  He really ought to reach out to them. Get the real lovin he deserves.
+    Lord knows the past haunts ya real fierce if ya can\u2019t air it out to someone
+    else. It\u2019s not like he\u2019s got much deeper things happening in his life.  "
   Sprite: {fileID: 0}
