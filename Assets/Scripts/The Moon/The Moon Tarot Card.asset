@@ -15,4 +15,6 @@ MonoBehaviour:
   Name: The Moon
   Sprite: {fileID: 0}
   Sentences:
-    _serializedList: []
+    _serializedList:
+    - Key: Finance
+      Value: {fileID: 11400000, guid: 4b7c8c1fe5bf12d40bd9607384ce6577, type: 2}

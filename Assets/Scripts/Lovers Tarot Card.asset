@@ -15,4 +15,6 @@ MonoBehaviour:
   Name: Lovers
   Sprite: {fileID: 0}
   Sentences:
-    _serializedList: []
+    _serializedList:
+    - Key: 
+      Value: {fileID: 0}
