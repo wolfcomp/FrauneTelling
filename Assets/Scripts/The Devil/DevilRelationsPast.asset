@@ -12,5 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
   m_Name: DevilRelationsPast
   m_EditorClassIdentifier: 
-  Good: 
-  Bad: 
+  Good: The Devil, right side up. This signifies an unhealthy obsession. An early
+    attachment of yours had grown too large, leaving you empty when you could no
+    longer latch onto it.
+  Bad: The Devil, reversed. This signifies braving something new. A moment of courage
+    in your past allowed your bond with another to grow.

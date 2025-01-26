@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
-  m_Name: DevilRelationsFuture
+  m_Name: LoversHealthFuture
   m_EditorClassIdentifier: 
-  Good: The Devil, right side up. This card reveals an obsessive future. Your crippling
-    addiction is not only hurting yourself but your loved ones as well.
-  Bad: "The Devil, reversed. A card signifying finally being free from one\u2019s
-    shackles. Freedom will come to you if you embrace other people in your life."
+  Good: The Devil, right side up. You will find yourself torn apart as you struggle
+    to gain what you cannot achieve, yet still you can not let it go either.
+  Bad: The Devil, reversed. In a moment of hardship, your bravery will ignite keeping
+    you warm and no longer hurting.

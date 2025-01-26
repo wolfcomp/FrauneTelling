@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba9d6ed0f387d2046aa6c9ef782e73b9, type: 3}
+  m_Name: The Lovers
+  m_EditorClassIdentifier: 
+  Name: The Devil
+  Sprite: {fileID: 0}
+  Sentences:
+    _serializedList:
+    - Key: Prosperity
+      Value: {fileID: 11400000, guid: e23f39ad56bf09c46a4c27a261601517, type: 2}
+    - Key: Health
+      Value: {fileID: 11400000, guid: 22d60d85df5acb64e8f997452e5a60e7, type: 2}
+    - Key: Relations
+      Value: {fileID: 11400000, guid: a391442e6fcb509499098554e5bcfddf, type: 2}

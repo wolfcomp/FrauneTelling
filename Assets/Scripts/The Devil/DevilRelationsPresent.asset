@@ -12,5 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a6c127a7312394ba487df59ab6053e, type: 3}
   m_Name: DevilRelationsPresent
   m_EditorClassIdentifier: 
-  Good: 
-  Bad: 
+  Good: The Devil, right side up. A card signifying deep-rooted fear. You are unable
+    to show people your true self, as you are terrified of what would happen if you
+    are not accepted.
+  Bad: The Devil, reversed. A card of freedom. You are not as confined as you once
+    thought. You have found an exit through the friends around you.
