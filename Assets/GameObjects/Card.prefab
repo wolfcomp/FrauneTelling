@@ -305,6 +305,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Bounds: {fileID: 0}
   ParentToReturnTo: {fileID: 0}
+  PickedUpScale: {x: 2.5, y: 2.5, z: 1}
+  ScaleTimeFrame: 0.2
 --- !u!114 &6357902629719547892
 MonoBehaviour:
   m_ObjectHideFlags: 0
